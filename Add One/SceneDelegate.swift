@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  Add One
 //
-//  Created by Levona Yim on 2020-08-28.
+//  Created by Ryan Leung on 2020-08-28.
 //  Copyright © 2020 Ryan Leung. All rights reserved.
 //
 
